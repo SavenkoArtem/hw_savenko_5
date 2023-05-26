@@ -1,0 +1,12 @@
+.vscode
+task34/bin
+task34/obj
+task36/bin
+task36/obj
+task38/bin
+task38/obj
+taskHARD_STAT/bin
+taskHARD_STAT/obj
+taskVERY_HARD/bin
+taskVERY_HARD/obj
+*.csproj
