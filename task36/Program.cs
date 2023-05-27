@@ -22,6 +22,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
+
 int SumNotEvenNumbers(int[] array)
 {
     int sum = 0;
