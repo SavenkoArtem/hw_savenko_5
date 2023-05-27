@@ -5,8 +5,8 @@ task36/bin
 task36/obj
 task38/bin
 task38/obj
-taskHARD_STAT/bin
-taskHARD_STAT/obj
+taskHARDSTAT/bin
+taskHARDSTAT/obj
 taskVERY_HARD/bin
 taskVERY_HARD/obj
 *.csproj
